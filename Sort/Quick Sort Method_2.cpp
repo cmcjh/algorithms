@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdlib>
 using namespace std;
-
+//针对洛谷P1177 【模板】快速排序进行优化
 int a[100001]{}, n;
 void swap(int& a, int& b)
 {
